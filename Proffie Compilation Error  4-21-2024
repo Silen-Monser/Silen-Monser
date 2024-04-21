@@ -1,0 +1,16 @@
+In file included from C:\Users\a4huy\Desktop\ProffieOS\ProffieOS.ino:623:
+C:\Users\a4huy\Desktop\ProffieOS\config\my_saber1.h:790:2: error: expected '}' before ';' token
+  790 | };
+      |  ^
+In file included from C:\Users\a4huy\Desktop\ProffieOS\ProffieOS.ino:623:
+C:\Users\a4huy\Desktop\ProffieOS\config\my_saber1.h:18:20: note: to match this '{'
+   18 | Preset presets[] = {
+      |                    ^
+In file included from C:\Users\a4huy\Desktop\ProffieOS\ProffieOS.ino:623:
+C:\Users\a4huy\Desktop\ProffieOS\config\my_saber1.h:790:2: error: cannot convert '<brace-enclosed initializer list>' to 'const char*' in initialization
+  790 | };
+      |  ^
+
+exit status 1
+
+Compilation error: expected '}' before ';' token
